@@ -5,5 +5,5 @@
  
  
  
- python ARP_Spoofer.py -t TARGET_IP_ADDRESS -r ROUTER_IP_ADDRESS
+  python ARP_Spoofer.py -t TARGET_IP_ADDRESS -r ROUTER_IP_ADDRESS
  
